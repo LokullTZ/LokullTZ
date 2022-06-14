@@ -1,6 +1,6 @@
-- 👋 Olá, me chamo Leonardo (LokullTZ).
-- 👀 O que eu curto? Aprender coisas legais sobre tecnologia, desenvolvimento, games, animes, natureza, carros, enfim, muitas coisas legais!
-- 🌱 Atualmente estou me dedicando a aprender um pouco mais sobre desenvolvimento WEB, com as tecnologias: HTML, CSS, JavaScript e React Native. É uma stack muito bacana que o pessoal da Rocketseat trás um conteúdo muito bacana para a galera.
+- 👋 Olá, me chamo Leonardo Ribeiro de Oliveira (Meu nickname nos jogos é LokullTZ, e eu costumo utilizar como apelido!).
+- 👀 O que eu curto? Aprender coisas legais sobre tecnologia, desenvolvimento, games, animes, natureza, carros, tempo com os amigos, enfim, muitas coisas legais!
+- 🌱 Atualmente estou me dedicando a aprender um pouco mais sobre desenvolvimento WEB e Mobile, com as tecnologias: HTML, CSS, JavaScript e React Native. É uma stack muito bacana que o pessoal da Rocketseat trás um conteúdo insano para a galera.
 - 💞️ Estou buscando pela minha primeira oportunidade no ramo de desenvolvimento!
 - 📫 Como me encontrar? Fácil, esse é o meu e-mail: leonardoriboliveira@gmail.com
 
