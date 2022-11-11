@@ -54,26 +54,26 @@
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noopener">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" style="margin: 0 1.5rem 0"/> 
     </a>
-    <a href="https://nodejs.org" target="_blank" rel="noopener" style="margin: 0 1.5rem 0">
-        <img src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" alt="nodejs" width="40" height="40"/>
+    <a href="https://nodejs.org" target="_blank" rel="noopener">
+        <img src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" alt="nodejs" width="40" height="40" style="margin: 0 1.5rem 0"/>
     </a>
-    <a href="https://reactjs.org/" target="_blank" rel="noopener" style="margin: 0 1.5rem 0">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
+    <a href="https://reactjs.org/" target="_blank" rel="noopener">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" style="margin: 0 1.5rem 0"/>
     </a>
-    <a href="https://www.mysql.com/" target="_blank" rel="noopener" style="margin: 0 1.5rem 0">
-        <img src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg" alt="mySQL" width="70" height="40">
+    <a href="https://www.mysql.com/" target="_blank" rel="noopener">
+        <img src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg" alt="mySQL" width="70" height="40" style="margin: 0 1.5rem 0"/>
     </a>
-    <a href="https://sass-lang.com" target="_blank" rel="noopener" style="margin: 0 1.5rem 0">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> 
+    <a href="https://sass-lang.com" target="_blank" rel="noopener">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40" style="margin: 0 1.5rem 0"/> 
     </a>
-    <a href="https://www.typescriptlang.org/" target="_blank" rel="noopener" style="margin: 0 1.5rem 0">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
+    <a href="https://www.typescriptlang.org/" target="_blank" rel="noopener">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40" style="margin: 0 1.5rem 0"/>
     </a>
-    <a href="https://www.figma.com/" target="_blank" rel="noopener" style="margin: 0 1.5rem 0">
-        <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> 
+    <a href="https://www.figma.com/" target="_blank" rel="noopener">
+        <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40" style="margin: 0 1.5rem 0"/> 
     </a>
-    <a href="https://git-scm.com/" target="_blank" rel="noopener" style="margin: 0 1.5rem 0">
-        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
+    <a href="https://git-scm.com/" target="_blank" rel="noopener">
+        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" style="margin: 0 1.5rem 0"/> 
     </a>
 
 </p>
@@ -83,14 +83,14 @@
 <h3 style="font-style: italic; font-weight: bold"> My Contacts & Social Medias </h3>
 
 <p style="margin-top: 1rem 0 1rem; display: flex; gap: 2.5rem;" align="center">
-    <a href="https://www.linkedin.com/in/leonardo-ribeiro-de-oliveira-41b00b116/" target="_blank" style="margin: 0 1.5rem 0">
-        <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/LinkedIN.svg" width="40" height="40" alt="linkedin"/>
+    <a href="https://www.linkedin.com/in/leonardo-ribeiro-de-oliveira-41b00b116/" target="_blank">
+        <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/LinkedIN.svg" width="40" height="40" alt="linkedin" style="margin: 0 1.5rem 0"/>
     </a>
-    <a href="mailto:leonardoriboliveira@gmail.com" target="_blank" style="margin: 0 1.5rem 0">
-        <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Gmail.svg" width="40" height="40" alt="mail"/>
+    <a href="mailto:leonardoriboliveira@gmail.com" target="_blank">
+        <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Gmail.svg" width="40" height="40" alt="mail" style="margin: 0 1.5rem 0"/>
     </a>
-    <a href="https://www.instagram.com/leonariboliveira/" target="_blank" style="margin: 0 1.5rem 0">
-        <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Instagram.svg" width="40" height="40"/>
+    <a href="https://www.instagram.com/leonariboliveira/" target="_blank">
+        <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Instagram.svg" width="40" height="40" style="margin: 0 1.5rem 0"/>
     </a>
 </p>
 
