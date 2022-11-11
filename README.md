@@ -82,7 +82,7 @@
 
 <h3 style="font-style: italic; font-weight: bold"> My Contacts & Social Medias </h3>
 
-<p style="margin-top: 1rem 0 1rem; display: flex; gap: 2.5rem; justify-content: center">
+<p style="margin-top: 1rem 0 1rem; display: flex; gap: 2.5rem;" align="center">
     <a href="https://www.linkedin.com/in/leonardo-ribeiro-de-oliveira-41b00b116/" target="_blank">
         <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/LinkedIN.svg" width="40" height="40" alt="linkedin"/>
     </a>
