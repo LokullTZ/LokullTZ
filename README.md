@@ -44,7 +44,7 @@
 <hr>
 
 <h3 style="font-style: italic; font-weight: bold;"> Tech's in Icons, Just Because Looks Awesome!  </h3>
-<p style="display: flex; gap: 1.5rem; padding: 0.5rem; justify-content: center;">
+<p style="display: flex; gap: 1.5rem; padding: 0.5rem;" align="center">
     <a href="https://www.w3.org/html/" target="_blank" rel="noopener">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
     </a>
