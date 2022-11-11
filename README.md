@@ -1,6 +1,5 @@
 <h1> Hey there 👋, Be Welcome! </h1>
-<h2 style="text-align: center; margin: 1rem">I'm Leonardo, and it's a <strong>huge pleasure</strong> to have you here!</h2>
-<hr/>
+<h2 style="margin: 1rem" align="center">I'm Leonardo, and it's a <strong>huge pleasure</strong> to have you here!</h2>
 <h3 style="font-style: italic; font-weight: bold; display:inline;"> About me </h3> <h3 style="display:inline"> 🙋‍♂️ </h3> 
 
 <div style="margin-top: 0.5rem;">
