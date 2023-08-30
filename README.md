@@ -93,19 +93,6 @@
     </a>
 </p>
 
-<hr>
-
-<p align="center" style="margin: 1.5rem">
-    <a href="https://steamcommunity.com/profiles/76561198201524799/">
-        <img src="./wolf.png">
-    </a>
-</p>
-
-
-
-
-
-
 <!---
 LokullTZ/LokullTZ is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
