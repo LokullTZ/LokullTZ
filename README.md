@@ -25,10 +25,6 @@
 <h3 style="font-style: italic; font-weight: bold; margin-bottom: 1rem"> My Activity Around Here </h3>
 
 <p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=LokullTZ&theme=monokai&margin-w=8-ma&title=Commits,Followers,Repositories,Stars&row=2&column=4&count_private=true" alt="LokullTZ" width="600"/>
-</p>
-
-<p align="center">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=LokullTZ&theme=monokai&count_private=true" alt="LokullTZ" width="600" />
 </p>
 
