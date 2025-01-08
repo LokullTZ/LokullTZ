@@ -10,7 +10,7 @@
 
         pronouns: ' He | Him ',
         codeIn: ['JavaScript', 'HTML 5', 'CSS3', 'Java'],
-        tools: ['React', 'React Native', 'Node', 'Figma'],
+        tools: ['React', SQL, 'Node', 'Figma'],
         concludedFormations: 'Computer Technician',
         formationsInProgress: 'System Analysis and Development',
         extraCourses: 'Front-end Development at Rocketseat'
@@ -30,7 +30,7 @@
 
 
 <p align="center"> 
-    <a href="https://github.com/Thalys-T"> 
+    <a href="https://github.com/LokullTZ"> 
         <img src="https://github-readme-stats.vercel.app/api?username=LokullTZ&show_icons&layout=compact&theme=monokai&include_all_commits=true&count_private=true" width="600"/>
         <!--<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LokullTZ&layout=compact&langs_count=16&layout=compact&theme=monokai&count_private=true"/>-->
     </a>
