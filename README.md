@@ -15,7 +15,6 @@
         formationsInProgress: 'System Analysis and Development',
         extraCourses: 'Front-end Development at Rocketseat'
 
-        /*...An apprentice of front-end development arts, who wishes that their codes be capable of helping the development environment grows even more...*/
 
     };
 
